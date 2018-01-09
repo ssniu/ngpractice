@@ -1,8 +1,0 @@
-.DS_Store
-node_modules
-.env
-my.seed.js
-host.key
-host.key.pub
-request.csr
-server.crt
